@@ -19,6 +19,8 @@ module.exports = {
       [
         '/',
         '/01-fundamentos/',
+        '/02-accordion/',
+        '/03-parcel/',
       ]
   }
  
