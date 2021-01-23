@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Bootstrap 5 (bluuweb)',
   description: 'Aprende a trabajar con Bootstrap 5!',
-  base: '/bootstrap-5/',
+  base: '/bootstrap-5-udemy/',
   locales:{
     '/':{
       lang: 'es-ES'
@@ -18,9 +18,9 @@ module.exports = {
     sidebar:
       [
         '/',
-        '/01-fundamentos/',
-        '/02-accordion/',
-        '/03-parcel/',
+        '/01-bases/',
+        '/02-componentes/',
+        '/10-parcel/',
       ]
   }
  
